@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+  color: #fff;
+  font-family: "Segoe UI", Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+header {
+  background-image: url("./img/Records.jpg");
+}
+
+h2 {
+  font-size: 25px;
+  background-color: #ef8354;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+}
+
+#ourSelection {
+  background-color: #ef8354;
+}
+
+#selling {
+  background-color: #0e7c7b;
+}
+
+#liveMusic {
+  background-color: #9c538b;
+}
+
+.sale {
+  font-weight: bold;
+}
+
+img {
+  width: 500px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+a {
+  color: #ef8354;
+}
+
+a:hover {
+  color: #9c528b;
+}
+
+footer {
+  text-align: center;
+}
